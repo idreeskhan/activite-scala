@@ -1,0 +1,16 @@
+*.class
+**/.idea
+**/.gradle
+**/*.gradle
+**/*.iml
+**/local.properties
+
+# Generated files and logging #
+gen/**
+out/**
+proguard_logs/**
+
+# Package Files #
+*.jar
+*.war
+*.ear
